@@ -1,14 +1,25 @@
 apiVersion: v1
 entries:
+  2-hello:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-25T23:24:33.875779+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 025210b9edb009c1b1d93c46b2a11a45fadaca58a65c8c16432f7e2135211395
+    name: 2-hello
+    type: application
+    urls:
+    - https://harodggg.github.io/helm-stratos/2-hello-0.1.0.tgz
+    version: 0.1.0
   helloworld:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-25T23:14:04.207691+08:00"
+    created: "2022-03-25T23:24:33.876257+08:00"
     description: A Helm chart for Kubernetes
-    digest: f20aebe5f8941a67b7a56b54b821dc64606ac5a49e960a03b8d464fd10a3c69e
+    digest: e23486e6ce298cb5bde8ff3eab207cf846f41528ea095671120a6980edb9714e
     name: helloworld
     type: application
     urls:
-    - https://helloworlde.github.io/helm-stratos/helloworld-0.1.0.tgz
+    - https://harodggg.github.io/helm-stratos/helloworld-0.1.0.tgz
     version: 0.1.0
-generated: "2022-03-25T23:14:04.206733+08:00"
+generated: "2022-03-25T23:24:33.874507+08:00"
